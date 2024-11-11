@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on ...Project 
 - 📫 How to reach me ... at my E-mail me at @deependrasharma995@gmail.com
 - 😄 Pronouns: ... Its Me Deepuu
-- ⚡ Fun fact: ... Profile: DEEPENDRA Sharma
-
-  Age: 22
+- ⚡ Fun fact: ... Profile: DEEPENDRA Sharma-
+-           Age: 22
           Location: Jaipur Rajasthan, India
             Occupation: Collage Student
 
