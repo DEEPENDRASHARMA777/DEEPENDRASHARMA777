@@ -5,7 +5,8 @@
 - 📫 How to reach me ... at my E-mail me at @deependrasharma995@gmail.com
 - 😄 Pronouns: ... Its Me Deepuu
 - ⚡ Fun fact: ... Profile: DEEPENDRA Sharma
-             Age: 22
+
+  Age: 22
           Location: Jaipur Rajasthan, India
             Occupation: Collage Student
 
