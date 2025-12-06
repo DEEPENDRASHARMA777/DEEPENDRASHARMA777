@@ -15,14 +15,9 @@ Just **copy–paste** this entire code into your `README.md`.
 # <p align="center">🌟 <strong>Deependra Sharma</strong> 🌟</p>
 
 <p align="center">
-  <img src="[assets/importance-of-motivation.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fleaderinfluence.net%2F2017%2F08%2F02%2Fhow-to-stay-motivated-and-influential-in-difficult-times%2F&psig=AOvVaw3C4_I9gTMuNaX8NHMlvTxj&ust=1765115460774000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiAw9mNqZEDFQAAAAAdAAAAABAE)"/>
+  <img src="[https://your-image-url.jpg](https://i0.wp.com/leaderinfluence.net/wp-content/uploads/2017/08/adobestock_117919603.jpeg?fit=1200,679&ssl=1)" width="500"/>
 </p>
 
----
-
-<p align="center">
-  <img src="assets/importance-of-motivation.jpg" width="500"/>
-</p>
 
 ---
 
