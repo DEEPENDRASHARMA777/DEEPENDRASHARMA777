@@ -15,6 +15,13 @@
 - 💼 **Experience:** 1.5+ Years in **Digital Marketing & Brand Management** + Frontend Internship at **Prodigy Pvt. Ltd.**
 - 🌱 **Learning:** Backend Technologies (Node.js, Express) & AI Integration
 - ⚡ **Fun Fact:** I apply marketing psychology to UI/UX design to create better user retention!
+- 👀 **Interests:** Front-End Web Development, UI/UX, Modern JavaScript, Interactive Web Apps
+- 🤝 **Looking to Collaborate On:** Innovative and impactful tech projects
+- 📫 **Reach Me At:** deependrasharma995@gmail.com
+- 😄 **Pronouns:** He/Him — friends call me Deepuu
+- 📸 **Hobbies:** Photography, Travel, Reading business & self-development books
+- ❤️ **Volunteer Work:** Helping provide education to underprivileged children
+- ✨ **Personal Motto:** “Success is not just what you accomplish, but what you inspire others to do.”
 
 ---
 
@@ -50,7 +57,23 @@
 | Role | Organization | Key Highlights |
 | :--- | :--- | :--- |
 | **Frontend Intern** | **Prodigy Pvt. Ltd.** | 💻 Built responsive web interfaces, cleaned up UI/UX, and optimized JS performance. |
-| **Brand Manager** | **(Previous Company)** | 📈 Led digital campaigns, boosted engagement, and managed creative teams for 1.5+ years. |
+| **Brand Manager** | **Previous Company** | 📈 Led digital campaigns, boosted engagement, and managed creative teams for 1.5+ years. |
+
+---
+
+<h2 align="center">🧑‍💻 Profile Summary</h2>
+
+- **Name:** Deependra Sharma  
+- **Age:** 22  
+- **Location:** Jaipur, Rajasthan, India  
+- **Occupation:** B.Tech Computer Science Student  
+
+**Education:**  
+- B.Tech — Poornima Institute of Engineering & Technology, Jaipur  
+- B.E. — Rajasthan Technical University  
+
+**Certifications:**  
+Full Stack Web Development, Full Stack Java Development, AI Primer, Deep Learning for Developers, Agile Scrum in Practice, Email Writing Skills, Generative AI Certification, Time Management, Introduction to Data Science  
 
 ---
 
