@@ -12,17 +12,16 @@ Great! Here is your **FULLY UPGRADED, SUPER PREMIUM, ANIMATED, MODERN & ULTRA-AT
 Just **copy–paste** this entire code into your `README.md`.
 
 ---
-
 # <p align="center">🌟 <strong>Deependra Sharma</strong> 🌟</p>
 
 <p align="center">
-  <img src=""F:\importance-of-motivation.jpg"" />
+  <img src="assets/importance-of-motivation.jpg"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src=""F:\importance-of-motivation.jpg"" width="500"/>
+  <img src="assets/importance-of-motivation.jpg" width="500"/>
 </p>
 
 ---
