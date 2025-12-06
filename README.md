@@ -72,7 +72,7 @@ Full Stack Web Development, Full Stack Java Development, AI Primer, Deep Learnin
 
 <p align="center">
   <a href="https://github.com/DEEPENDRASHARMA777">
-    <img src="https://github-readme-stats.vercel.app/api?username=DEEPENDRASHARMA777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Deependra's Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DEEPENDRASHARMA777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="" width="48%" />
   </a>
   <a href="https://github.com/DEEPENDRASHARMA777">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPENDRASHARMA777&theme=tokyonight&hide_border=true" alt="Deependra's Streak" width="48%" />
@@ -80,7 +80,7 @@ Full Stack Web Development, Full Stack Java Development, AI Primer, Deep Learnin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPENDRASHARMA777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPENDRASHARMA777&layout=compact&theme=tokyonight&hide_border=true" alt="" />
 </p>
 
 ---
