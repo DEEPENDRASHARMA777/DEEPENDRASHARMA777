@@ -22,7 +22,7 @@ Just **copy–paste** this entire code into your `README.md`.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/6X4QXQh.gif" width="700"/>
+  <img src=""F:\importance-of-motivation.jpg"" width="500"/>
 </p>
 
 ---
