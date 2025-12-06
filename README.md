@@ -1,186 +1,96 @@
-Great! Here is your **FULLY UPGRADED, SUPER PREMIUM, ANIMATED, MODERN & ULTRA-ATTRACTIVE GitHub Profile README** with:
-
-✅ Animated Typing Banner
-✅ GitHub Stats & Streaks
-✅ Skill Icons Grid
-✅ Social Badges
-✅ Modern UI Layout
-✅ Stickers, GIFs, Icons
-✅ 100% GitHub Markdown Compatible
-✅ Professionally Designed Look
-
-Just **copy–paste** this entire code into your `README.md`.
-
----
-# <p align="center">🌟 <strong>Deependra Sharma</strong> 🌟</p>
-
 <p align="center">
-  <img src="[https://your-image-url.jpg](https://i0.wp.com/leaderinfluence.net/wp-content/uploads/2017/08/adobestock_117919603.jpeg?fit=1200,679&ssl=1)" width="500"/>
+  <a href="https://github.com/DEEPENDRASHARMA777">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Deependra+Sharma;🚀+Front-End+Developer+%26+Tech+Explorer;📈+Digital+Marketing+%26+Brand+Specialist;🎓+B.Tech+CSE+@+Poornima+Institute" alt="Typing SVG" />
+  </a>
 </p>
 
-
----
-
-# 👋 **Hey, I’m Deependra!**
-
-Front-End Developer • Full-Stack Developer (In Progress) • Tech Explorer
-I design and build modern, responsive, and meaningful digital experiences.
-
----
-
-# 🌐 **Social Links**
-
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=firefox"/></a>
-  <a href="mailto:deependrasharma995@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
----
+<h2 align="center">👨‍💻 About Me</h2>
 
-# 🧑‍💻 **About Me**
-
-* 🔭 Working On: Front-End Projects
-* 🌱 Learning: Back-End (Node.js, Express.js, Databases)
-* 🤝 Open To: Web development collaborations
-* 📩 Email: **[deependrasharma995@gmail.com](mailto:deependrasharma995@gmail.com)**
-* ⚡ Fun Fact: I fix bugs at 2 AM like a ninja 😎
+- 🎓 **Education:** B.Tech in Computer Science (Poornima Institute) & B.E. (RTU)
+- 🔭 **Currently Working on:** Mastering **React.js**, **Next.js**, and **System Design**
+- 💼 **Experience:** 1.5+ Years in **Digital Marketing & Brand Management** + Frontend Internship at **Prodigy Pvt. Ltd.**
+- 🌱 **Learning:** Backend Technologies (Node.js, Express) & AI Integration
+- ⚡ **Fun Fact:** I apply marketing psychology to UI/UX design to create better user retention!
 
 ---
 
-# 🎓 **Education**
-
-🎓 *B.Tech in Computer Science* — Poornima Institute of Engineering & Technology
-🎓 *Bachelor of Engineering (RTU)* — Rajasthan Technical University
-
----
-
-# 💼 **Professional Background**
-
-<img align="right" src="https://i.imgur.com/6VxD0dU.gif" width="300"/>
-
-I hold **1.5+ years of experience** in **Digital Marketing & Brand Management**, leading teams in:
-
-* Creative digital campaigns
-* Customer engagement
-* Branding & Growth
-
-🏆 Received multiple awards for **creativity, strategy & innovation**.
-
----
-
-# 🛠️ **Tech Skills**
-
-## 🚀 Languages & Tools
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vscode" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+<h2 align="center">🧠 Management & Soft Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital_Marketing-000000?style=for-the-badge&logo=google-ads&logoColor=F4B400" />
+  <img src="https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brand_Management-FF5722?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Leadership-8A2BE2?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 **Soft & Management Skills**
+<h2 align="center">💼 Professional Experience</h2>
 
-* Leadership
-* Communication
-* Problem-solving
-* Teamwork
-* Time Management
-* Agile, Scrum, Project Management
+| Role | Organization | Key Highlights |
+| :--- | :--- | :--- |
+| **Frontend Intern** | **Prodigy Pvt. Ltd.** | 💻 Built responsive web interfaces, cleaned up UI/UX, and optimized JS performance. |
+| **Brand Manager** | **(Previous Company)** | 📈 Led digital campaigns, boosted engagement, and managed creative teams for 1.5+ years. |
 
 ---
 
-# 🏅 **Certifications**
-
-✔ Full Stack Web Development
-✔ Full Stack Java Development
-✔ Generative AI & LLMs
-✔ Artificial Intelligence Primer
-✔ Time Management
-✔ Deep Learning for Developers
-✔ Data Science Foundation
-✔ Agile Scrum in Practice
-✔ Email Writing Skills
-✔ GPT & OpenAI Certifications
-
----
-
-# 🧪 **Work Experience**
-
-<img align="left" src="https://i.imgur.com/y1G9jFF.gif" width="250"/>
-
-Completed a **2-month Frontend Developer Internship** at **Prodigy Pvt. Ltd.**
-Where I:
-
-* Built responsive web interfaces
-* Designed clean UI/UX
-* Worked with HTML, CSS, JavaScript
-* Completed training with certification
-
----
-
-# 📸 **Interests**
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/efQdF3J.gif" width="450"/>
-</p>
-
-* Photography
-* Traveling
-* Exploring cities & nature
-* Reading self-development & business books
-
----
-
-# ❤️ **Volunteer Work**
-
-I support local NGOs focusing on **education for underprivileged children**.
-I believe in empowering young minds and giving back to society.
-
----
-
-# ✨ **Personal Motto**
-
-> **“Success is not what you accomplish, but what you inspire others to do.”**
-
----
-
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEPENDRASHARMA777&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPENDRASHARMA777&theme=tokyonight" height="160"/>
+  <a href="https://github.com/DEEPENDRASHARMA777">
+    <img src="https://github-readme-stats.vercel.app/api?username=DEEPENDRASHARMA777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Deependra's Stats" width="48%" />
+  </a>
+  <a href="https://github.com/DEEPENDRASHARMA777">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPENDRASHARMA777&theme=tokyonight&hide_border=true" alt="Deependra's Streak" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPENDRASHARMA777&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPENDRASHARMA777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-# 🏆 **GitHub Trophies**
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEEPENDRASHARMA777&theme=dracula&column=6"/>
+  <a href="https://www.linkedin.com/in/deependra-sharma-your-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:deependrasharma995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-# 🙌 **Thanks for Visiting My Profile!**
-
 <p align="center">
-  <img src="https://i.imgur.com/e8Z5Yzc.gif" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-⭐ *Feel free to star repositories, connect, or collaborate!*
-
----
-
-If you want, I can also:
-
-🔥 Create a **custom GitHub banner** with your name
-🎨 Make a **personal logo** for "Deependra"
-📁 Create a **Premium Portfolio Website Template**
-🚀 Add **project showcase cards** in your README
-
-Just tell me!
+<p align="center">
+  <i>"Success is not what you accomplish, but what you inspire others to do."</i> 🌟
+</p>
