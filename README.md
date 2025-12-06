@@ -1,13 +1,20 @@
-<p align="center">
-  <a href="https://github.com/DEEPENDRASHARMA777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Deependra+Sharma;🚀+Front-End+Developer+%26+Tech+Explorer;📈+Digital+Marketing+%26+Brand+Specialist;🎓+B.Tech+CSE+@+Poornima+Institute" alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</p>
+<h2 align="center">🧑‍💻 Profile Summary</h2>
 
+- **Name:** Deependra Sharma  
+- **Age:** 22  
+- **Location:** Jaipur, Rajasthan, India  
+- **Occupation:** B.Tech Computer Science Student  
+
+**Education:**  
+- B.Tech — Poornima Institute of Engineering & Technology, Jaipur  
+- B.E. — Rajasthan Technical University  
+
+**Certifications:**  
+Full Stack Web Development, Full Stack Java Development, AI Primer, Deep Learning for Developers, Agile Scrum in Practice, Email Writing Skills, Generative AI Certification, Time Management, Introduction to Data Science  
+
+---
 <h2 align="center">👨‍💻 About Me</h2>
 
 - 🎓 **Education:** B.Tech in Computer Science (Poornima Institute) & B.E. (RTU)
@@ -59,23 +66,7 @@
 | **Frontend Intern** | **Prodigy Pvt. Ltd.** | 💻 Built responsive web interfaces, cleaned up UI/UX, and optimized JS performance. |
 | **Brand Manager** | **Previous Company** | 📈 Led digital campaigns, boosted engagement, and managed creative teams for 1.5+ years. |
 
----
 
-<h2 align="center">🧑‍💻 Profile Summary</h2>
-
-- **Name:** Deependra Sharma  
-- **Age:** 22  
-- **Location:** Jaipur, Rajasthan, India  
-- **Occupation:** B.Tech Computer Science Student  
-
-**Education:**  
-- B.Tech — Poornima Institute of Engineering & Technology, Jaipur  
-- B.E. — Rajasthan Technical University  
-
-**Certifications:**  
-Full Stack Web Development, Full Stack Java Development, AI Primer, Deep Learning for Developers, Agile Scrum in Practice, Email Writing Skills, Generative AI Certification, Time Management, Introduction to Data Science  
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
