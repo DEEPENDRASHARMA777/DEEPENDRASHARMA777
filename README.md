@@ -98,7 +98,8 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 
 <div class="social-links">
   <a href="www.linkedin.com/in/deependra-sharma-305622322" target="_blank">
-   <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+ <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
     
   </a>
 
