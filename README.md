@@ -95,31 +95,22 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 </p>
 
 ---
-<div style="text-align: center; margin: 40px 0;">
-  <div class="social-links" style="display: inline-flex; gap: 12px;">
+<h2 align="center">🔗 Connect With Me</h2>
 
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/deependra-sharma-305622322" target="_blank">
-      <img src="https://img.shields.io/badge/-Deependra%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/deependra-sharma-305622322" target="_blank">
+    <img src="https://img.shields.io/badge/-Deependra%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-    <!-- Portfolio -->
-    <a href="https://portfolio0777.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
-    </a>
+  <a href="mailto:deependrasharma995@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-    <!-- Email -->
-    <a href="mailto:deependrasharma995@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+  <a href="https://portfolio0777.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-    <!-- Resume -->
-    <a href="https://drive.google.com/file/d/1cidAFKmpf5LHJV0cY-LS827PmQsFdEJ6/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-    </a>
-
-  </div>
-</div>
 
 
 
