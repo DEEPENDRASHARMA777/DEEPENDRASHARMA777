@@ -105,7 +105,7 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
     <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white" />
   </a>
 
-  <a href="https://drive.google.com/file/d/1cidAFKmpf5LHJV0cY-LS827PmQsFdEJ6/view?usp=sharing" target="_blank">
+  <a href="file:///C:/Users/DEEPENDRA%20SHARMA/OneDrive/Pictures/Data%20Science%20-%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
