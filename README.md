@@ -96,23 +96,19 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 
 ---
 
-<h2 align="center">🔗 Connect With Me</h2>
+<div class="social-links">
+  <a href="www.linkedin.com/in/deependra-sharma-305622322" target="_blank">
+    <img src="https://img.shields.io/badge/-Devashish%20Soni-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<p align="center">
-  <a href="www.linkedin.com/in/deependra-sharma-305622322">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="[https://ds-portfolio-website.netlify.app/](https://portfolio0777.netlify.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white" />
   </a>
-  <a href="mailto:deependrasharma995@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://drive.google.com/file/d/1cidAFKmpf5LHJV0cY-LS827PmQsFdEJ6/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
-  <a href[="https://your-portfolio-link.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://portfolio0777.netlify.app/)"/>
-  </a>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
