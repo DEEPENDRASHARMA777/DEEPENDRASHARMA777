@@ -105,7 +105,7 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
   <a href="mailto:deependrasharma995@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href[="https://your-portfolio-link.com](https://portfolio0777.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
