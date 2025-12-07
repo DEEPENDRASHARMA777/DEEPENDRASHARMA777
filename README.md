@@ -98,15 +98,16 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 
 <div class="social-links">
   <a href="www.linkedin.com/in/deependra-sharma-305622322" target="_blank">
-    <img src="https://img.shields.io/badge/-Devashish%20Soni-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Deependra%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="[https://ds-portfolio-website.netlify.app/](https://portfolio0777.netlify.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <a href="file:///C:/Users/DEEPENDRA%20SHARMA/OneDrive/Pictures/Data%20Science%20-%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   </a>
 </div>
 
