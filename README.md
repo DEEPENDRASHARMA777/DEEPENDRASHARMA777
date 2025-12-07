@@ -90,10 +90,6 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPENDRASHARMA777&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPENDRASHARMA777&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 <h2 align="center">🔗 Connect With Me</h2>
 
