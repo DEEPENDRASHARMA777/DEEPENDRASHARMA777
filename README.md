@@ -82,13 +82,26 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 | **Brand Manager** | Previous Company | Managed digital campaigns, boosted online engagement |
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEPENDRASHARMA777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPENDRASHARMA777&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DEEPENDRASHARMA777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
+
+  <!-- GitHub Streak Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=DEEPENDRASHARMA777&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    width="48%" 
+  />
+
+</div>
+
 
 ---
 <h2 align="center">🔗 Connect With Me</h2>
