@@ -96,6 +96,7 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 
 ---
 
+### 🔗 Connect with Me
 <div class="social-links">
   <a href="www.linkedin.com/in/deependra-sharma-305622322" target="_blank">
   <img src="https://img.shields.io/badge/-Deependra%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
