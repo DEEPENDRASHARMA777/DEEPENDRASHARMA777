@@ -83,18 +83,21 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
+  
+  <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=DEEPENDRASHARMA777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
-    alt="GitHub Stats" 
-    width="48%" 
+    alt="GitHub Stats"
+    height="160"
   />
 
   <!-- GitHub Streak Card -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=DEEPENDRASHARMA777&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    width="48%" 
+  <img
+    src="https://streak-stats.demolab.com?user=DEEPENDRASHARMA777&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="160"
   />
 
 </div>
