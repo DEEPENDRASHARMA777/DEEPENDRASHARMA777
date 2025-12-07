@@ -1,3 +1,7 @@
+<!-- GIF Banner -->
+<!-- <p align="center">
+  <img src="[https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif](https://github.com/DEEPENDRASHARMA777/DEEPENDRASHARMA777/blob/main/me.png?raw=true)" width="100%" />
+</p> -->
 
 ---
 
