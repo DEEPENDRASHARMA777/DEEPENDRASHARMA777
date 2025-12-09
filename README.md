@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=["https://github.com/DEEPENDRASHARMA777/DEEPENDRASHARMA777/blob/main/me.png?raw=true](https://media.istockphoto.com/id/1758363728/photo/motivational-and-inspirational-wording.jpg?s=612x612&w=0&k=20&c=hO3CU65aNSSMhof_fySmUHXHeJ_EcBI0WPSDZRLNKP0=)" width="500%" />
+  <img src="importance-of-motivation.jpg" width="500%" />
 </p>
 
 ---
