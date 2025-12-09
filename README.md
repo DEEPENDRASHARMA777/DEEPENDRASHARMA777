@@ -30,6 +30,7 @@ Full Stack Web Development • Full Stack Java • Agile Scrum • AI Primer •
 - 🤝 Open for collaborations & innovative tech projects  
 - 📫 Email: **deependrasharma995@gmail.com**
 - 🔗 LinkedIn: www.linkedin.com/in/deependra-sharma-305622322
+- 💼 Portfolio: [https://yourportfolio.com](https://portfolio0777.netlify.app/)
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
